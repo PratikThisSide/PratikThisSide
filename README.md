@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi! I'm Pratik, a passionate second-year Computer Science student at MIT ADT University, Pune. I'm on a journey to become a skilled Cloud Architect and software developer, with a strong interest in building real-world, impactful projects.<br><br>💻 I love working with Java, Python, and Web Technologies<br><br>☁️ Currently exploring Cloud Computing, DevOps, and Backend Development<br><br>📊 Strong focus on Data Structures, Algorithms, and system design<br><br>📚 Always learning and growing through project-based learning<br><br>🚀 Goal: Land a top-tier placement with impactful, scalable projects
 
-
-## 🌐 Socials:
+    <!-- hey-->
+    ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__pr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prpratikraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrPratikraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikraj2000qwerty@gmail.com) 
 
 # 💻 Tech Stack:
