@@ -15,8 +15,6 @@ Hi! I'm Pratik, a passionate second-year Computer Science student at MIT ADT Uni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PratikThisSide&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PratikThisSide&icon=10&color=0)](https://visitcount.itsvg.in)
