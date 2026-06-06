@@ -1,16 +1,60 @@
-# 💫 About Me:
-Hi! I'm Pratik, a passionate final-year Computer Science student at MIT ADT University, Pune. I'm on a journey to become a skilled Cloud Architect and software developer, with a strong interest in building real-world, impactful projects.<br><br>💻 I love working with Java, Python, and Web Technologies<br><br>☁️ Currently exploring Cloud Computing, DevOps, and Backend Development<br><br>📊 Strong focus on Data Structures, Algorithms, and system design<br><br>📚 Always learning and growing through project-based learning<br><br>🚀 Goal: Land a top-tier placement with impactful, scalable projects
+# Hi, I'm Pratik 👋
 
+**Cloud Architect | Full-Stack Developer | Computer Science Student**
 
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
+Final-year Computer Science student at MIT ADT University, Pune with a passion for building scalable cloud solutions and enterprise applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PratikThisSide&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) Yo, Sssup?-->
+## 🎯 About Me
+
+I'm a dedicated software developer with hands-on experience in cloud technologies and full-stack development. I'm committed to writing clean, maintainable code and solving complex technical problems. Currently focused on becoming a proficient Cloud Architect and continuously expanding my technical expertise.
+
+---
+
+## 💼 Skills & Technologies
+
+**Cloud & DevOps**
+- Cloud Architecture & AWS Services
+- Containerization & Microservices
+
+**Backend Development**
+- Java | Spring Boot | REST APIs
+
+**Frontend Development**
+- HTML5 | CSS3 | JavaScript | React
+
+**Other**
+- Git & Version Control
+- Problem Solving & System Design
+
+---
+
+## 🚀 What I'm Looking For
+
+- **Internships/Entry-level roles** in Cloud Engineering, Full-Stack Development, or Backend Engineering
+- Opportunities to contribute to **enterprise-scale projects**
+- Roles that value **continuous learning** and **code quality**
+- Positions in **Fintech, SaaS, or Cloud-native companies**
+
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://visitcount.itsvg.in/api?id=PratikThisSide&icon=5&color=4CAF50)
+
+---
+
+## 📫 Connect With Me
+
+- **Email**: [Add your email]
+- **LinkedIn**: [Add your profile URL]
+- **Portfolio**: [Add your portfolio URL if available]
+
+---
+
+## 💡 Open to Collaboration
+
+I'm always interested in discussing software architecture, cloud solutions, or collaborating on open-source projects. Feel free to reach out!
+
+**Looking forward to connecting with you!**
