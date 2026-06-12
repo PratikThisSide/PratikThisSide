@@ -8,10 +8,10 @@ Final-year Computer Science student at MIT ADT University, Pune with a passion f
 
 ## 🎯 About Me
 
-I'm a committed software engineer with a strong foundation in **Data Structures & Algorithms** and proven dedication to continuous learning. My **498-day LeetCode streak** demonstrates my commitment to coding excellence and problem-solving. I specialize in:
+I'm a committed software engineer with a strong foundation in **Data Structures & Algorithms** and proven dedication to continuous learning. My **500-days LeetCode streak** demonstrates my commitment to coding excellence and problem-solving. I specialize in:
 
-- **Backend Development** with Java and enterprise frameworks
 - **Cloud Architecture** and AWS services
+- **Backend Development** with Java and enterprise frameworks
 - **Full-Stack Development** with modern technologies
 - **System Design** and scalable solutions
 
