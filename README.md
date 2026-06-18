@@ -76,7 +76,7 @@ Currently focused on becoming a proficient Cloud Architect while maintaining exc
 - **Email**: [pratikraj2000qwerty@gmail.com](mailto:pratikraj2000qwerty@gmail.com)
 - **LinkedIn**: [linkedin.com/in/prpratikraj](https://www.linkedin.com/in/prpratikraj/)
 - **LeetCode**: [leetcode.com/u/pratikraj2000qwerty](https://leetcode.com/u/pratikraj2000qwerty/)
-- **WebPage**:[pratikraj.dev](https://pratikraj.dev)
+- **WebPage**: [pratikraj.dev](https://pratikraj.dev)
 
 ---
 
