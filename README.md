@@ -2,7 +2,7 @@
 
 **Cloud Architect | Full-Stack Developer | Problem Solver**
 
-Final-year Computer Science student at MIT ADT University, Pune with a passion for building scalable cloud solutions and enterprise applications. Dedicated to mastering Data Structures & Algorithms with a **498-day LeetCode streak** and deep expertise in cloud technologies.
+Final-year Computer Science student at MIT ADT University, Pune with a passion for building scalable cloud solutions and enterprise applications. Dedicated to mastering Data Structures & Algorithms with a **500+ day LeetCode streak** and deep expertise in cloud technologies.
 
 ---
 
