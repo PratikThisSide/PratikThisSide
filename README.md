@@ -106,6 +106,16 @@ Java implementations from placement preparation sessions.
 
 ---
 
+### 🔥 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/pratikraj2000qwerty?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
 ### GitHub activity
 
 <div align="center">
