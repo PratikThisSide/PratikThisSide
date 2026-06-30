@@ -1,7 +1,13 @@
 <div align="center">
-<img src="header.svg" alt="Pratik Raj — Cloud Architect, Backend Engineer, Full-Stack Developer" width="100%">
-</div>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pratik+%F0%9F%91%8B;Java+Backend+Developer;Full-Stack+%7C+DSA+%7C+Curious+Learner" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PratikThisSide&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/PratikThisSide?label=Followers&style=flat&color=2F81F7" alt="followers" />
+
+</div>
 <br>
 
 <table width="100%">
