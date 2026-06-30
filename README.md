@@ -4,120 +4,112 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### About
-
-I'm a final-year Computer Science student at MIT ADT University, Pune, building toward a career in cloud architecture and backend systems engineering. My work centers on writing performant, well-structured Java services and understanding how to design systems that scale — paired with a 500+ day LeetCode streak that's kept algorithmic fundamentals sharp throughout.
-
-I care about the parts of engineering that don't show up in a demo: read-the-room system design, clean failure handling, and code that's still legible six months later.
-
-</td>
-<td width="40%" valign="top">
-
-### Quick facts
-
-| | |
-|---|---|
-| 🎓 | MIT ADT University, Pune |
-| 📍 | Final-year, Computer Science |
-| 🔥 | 500+ day LeetCode streak |
-| ☁️ | AWS · Microservices · System Design |
-| ☕ | Java · Spring Boot · Spring Security |
-
-</td>
-</tr>
-</table>
-
----
-
-### Stack
-
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-30363d?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363d?style=flat-square&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-30363d?style=flat-square&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pratik+%F0%9F%91%8B;Java+Backend+Developer;Full-Stack+%7C+DSA+%7C+Curious+Learner" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PratikThisSide&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/PratikThisSide?label=Followers&style=flat&color=2F81F7" alt="followers" />
 
 </div>
 
 ---
 
-### Focus areas
+### 🎯 About Me
 
-```
-Cloud Architecture     ████████████████░░░░   AWS services, system design, scalability
-Backend (Java)         ██████████████████░░   Spring Boot, REST APIs, concurrency
-Algorithms & DSA       ███████████████████░   500+ day streak, optimization, CP
-Full-Stack Delivery    ███████████░░░░░░░░░   React, end-to-end application builds
-```
+I'm a final-year Computer Science student at MIT ADT University, Pune, working as a Java backend developer with growing full-stack experience. I enjoy building real, working applications end-to-end — from the UI down to the database — and solving problems through Data Structures & Algorithms, where I've kept a **500+ day LeetCode streak**.
 
----
+Right now I'm sharpening my backend fundamentals in Java and exploring cloud and system design concepts as I grow toward more scalable, production-style engineering.
 
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[TelegramExpenseBot](https://github.com/PratikThisSide/TelegramExpenseBot)**
-Personal expense tracking via a Telegram bot interface.
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-**[Admin Dashboard — IIT Patna](https://github.com/PratikThisSide/Admin-Dashboard-for-IIT-Patna)**
-Frontend for an institutional admin dashboard.
-`HTML` `CSS` `JS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[CampOps](https://github.com/PratikThisSide/CampOps)**
-Campus maintenance scheduling system.
-`HTML` `CSS` `JS`
-
-</td>
-<td width="50%" valign="top">
-
-**[BankingApplication](https://github.com/Sanidhyavyas/BankingApplication)**
-Java implementations from placement preparation sessions.
-`Java`
-
-</td>
-</tr>
-</table>
+- 🔭 Currently building full-stack and backend projects
+- 🌱 Learning: Spring Boot, system design fundamentals, and cloud basics
+- 🧩 Strong foundation in DSA and problem-solving
+- 💬 Ask me about: Java, DSA, React, or my LeetCode grind
+- 📫 Reach me: **pratikraj2000qwerty@gmail.com**
 
 ---
 
-### GitHub activity
+### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PratikThisSide&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=57606a" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikThisSide&theme=default&hide_border=true&background=ffffff&ring=57606a&fire=24292f&currStreakLabel=24292f" width="48%">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode&theme=dark" alt="tech stack" />
+
+</div>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-### Looking for
-
-Internship or entry-level roles in **Cloud Engineering**, **Backend Development**, or **Full-Stack Engineering** — ideally at a fintech, SaaS, or cloud-native product company on a team that values system design and code quality over velocity for its own sake.
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-pratikraj2000qwerty%40gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:pratikraj2000qwerty@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prpratikraj-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prpratikraj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20streak-30363d?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratikraj2000qwerty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pratikraj.dev-30363d?style=flat-square&logo=googlechrome&logoColor=white)](https://pratikraj.dev)
+<img src="https://github-readme-stats.vercel.app/api?username=PratikThisSide&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikThisSide&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikThisSide&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🔥 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/pratikraj2000qwerty?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
+### 🚀 Projects
+
+- **[infra-rail-management](https://github.com/PratikThisSide/infra-rail-management)**
+- **[Telegram Expense Bot](https://github.com/PratikThisSide)** <!-- replace with exact repo URL -->
+- **[LeetCode Clone](https://github.com/PratikThisSide)** *(under development)* <!-- replace with exact repo URL -->
+- **[Project 4](https://github.com/PratikThisSide)** <!-- replace with exact repo URL -->
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikThisSide&theme=tokyo-night&hide_border=true" alt="activity graph" />
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prpratikraj/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pratikraj2000qwerty/)
+[![Website](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pratikraj.dev)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikraj2000qwerty@gmail.com)
+
+</div>
+
+<div align="center">
+
+**Let's build something together! 🚀**
+
+</div>
 </div>
